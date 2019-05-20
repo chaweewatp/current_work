@@ -1,7 +1,7 @@
 here is all my work lists
 
 1. Northeastern University
-
+  * customer behavior analysis using CI and monte carlo simulation
   * Optimum TOU pricing: https://github.com/chaweewatp/northeastern-work-1
   * Solar PV detection using SE: https://github.com/chaweewatp/State-Estimation-using-OpenDSS
 
