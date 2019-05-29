@@ -3,8 +3,8 @@ here is all my work lists
 1. Northeastern University
   * customer behavior analysis using CI and monte carlo simulation
   * Optimum TOU pricing: https://github.com/chaweewatp/northeastern-work-1
-  * Solar PV detection using SE: https://github.com/chaweewatp/State-Estimation-using-OpenDSS
-
+  * Solar PV detection using SE: https://github.com/chaweewatp/norheastern_work_2
+  * run state_estimation: https://github.com/chaweewatp/State-Estimation-using-OpenDSS
 2. AIT thesis
 
   * Objective 5: electricity price forecasting with emission cost: https://github.com/chaweewatp/paper04
