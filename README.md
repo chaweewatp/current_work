@@ -12,7 +12,7 @@ here is all my work lists
 
 3. PEA's innovation contest
 
-  * TBA--
+  * https://github.com/chaweewatp/PEA-data-analytic
 
 
 4. PEA Area 1 department
