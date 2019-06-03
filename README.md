@@ -28,7 +28,8 @@ List of conference Paper
   * Link : https://peacon2019.pea.co.th
   * Conference date: 23-24 September, 2019
   * Submission deadline: 1 July, 2019
-  * Topic: Optimum TOU pricing
+  * link for paper: https://github.com/chaweewatp/PEA-con_paper_1
+  * link for paper: https://github.com/chaweewatp/PEA-con_paper_2
 
 2. GMSARN
 
